@@ -2,5 +2,6 @@
 
 int main(){
     printf("Hola mundo\n");
+    getch();
     return 0;
 }
